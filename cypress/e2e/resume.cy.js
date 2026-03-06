@@ -106,4 +106,4 @@ describe("Resume Builder", () => {
     cy.contains("E-Commerce");
     cy.contains("github.com/rahul");
   });
-});
+});  
